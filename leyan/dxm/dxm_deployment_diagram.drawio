@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T10:57:44.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="V9bs2k18YHhI7HgRgmLm" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T11:03:03.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9i7KcO4X3rLUMf-bKH3i" version="14.4.6" type="github">
   <diagram id="ZcON_Rk_WTNMlcSxkrlS" name="Page-1">
     <mxGraphModel dx="1674" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -289,6 +289,7 @@
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-204" style="edgeStyle=elbowEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.417;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.656;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;startFill=1;endArrow=classicThin;endFill=1;strokeWidth=1;fontColor=#000000;dashed=1;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-75" target="CDfRqWzCQf5GVAwlbsrR-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1060" y="520" />
               <mxPoint x="1070" y="530" />
               <mxPoint x="1060" y="540" />
             </Array>
@@ -296,7 +297,7 @@
         </mxCell>
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-205" value="Kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="CDfRqWzCQf5GVAwlbsrR-204">
           <mxGeometry x="0.0418" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-75" value="《device》&lt;br&gt;&lt;b&gt;Ducati Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -344,6 +345,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="868" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="990" y="940" />
               <mxPoint x="1000" y="990" />
               <mxPoint x="1029" y="948" />
               <mxPoint x="1049" y="948" />
@@ -373,6 +375,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1085" y="1078" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1020" y="730" />
               <mxPoint x="1040" y="940" />
               <mxPoint x="1049" y="838" />
             </Array>
