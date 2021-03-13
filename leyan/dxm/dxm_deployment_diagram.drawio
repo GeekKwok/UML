@@ -1,14 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T12:48:54.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Qfj940NsLXiiHapUk-tD" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T06:46:52.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="-4L_mZxkF8UFi8XCl56e" version="14.4.6" type="github">
   <diagram id="ZcON_Rk_WTNMlcSxkrlS" name="Page-1">
-    <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lAn5dx9xRJ5cXrWizB1T-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="350" width="150" height="115" as="geometry" />
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-7" value="《device》&lt;br&gt;DXM POP&amp;nbsp;Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="530" width="130" height="124.5" as="geometry" />
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-3" value="DXM POP&#xa;API Gateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="382.5" width="100" height="50" as="geometry" />
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-16" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startFill=1;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-13" target="CDfRqWzCQf5GVAwlbsrR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-19" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDfRqWzCQf5GVAwlbsrR-16">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-23" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-13" target="CDfRqWzCQf5GVAwlbsrR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-25" value="gRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDfRqWzCQf5GVAwlbsrR-23">
+          <mxGeometry x="0.0092" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-13" value="《device》&lt;br&gt;DXM Proxy Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="530" width="130" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-17" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;dxm-pop-api.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-18" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;dxm-proxy.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=60;entryPerimeter=0;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-22" target="CDfRqWzCQf5GVAwlbsrR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-40" value="gRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDfRqWzCQf5GVAwlbsrR-27">
+          <mxGeometry x="-0.2679" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-30" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-22" target="CDfRqWzCQf5GVAwlbsrR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-37" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=57.25;entryDy=0;entryPerimeter=0;startFill=1;endArrow=classicThin;endFill=1;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="CDfRqWzCQf5GVAwlbsrR-22" target="CDfRqWzCQf5GVAwlbsrR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-38" value="Kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDfRqWzCQf5GVAwlbsrR-37">
+          <mxGeometry x="-0.1928" relative="1" as="geometry">
+            <mxPoint y="12.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-22" value="《device》&lt;br&gt;Scene Manager Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="530" width="130" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-24" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;scene-manager.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-26" value="《device》&lt;br&gt;WellsFargo Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="654.5" width="130" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-28" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;wellsfargo.wheel&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="714.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-29" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontStyle=0;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="680" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-33" value="《device》&lt;br&gt;Policy Bizweb Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="405.5" width="130" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-36" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;policy-bizweb.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="464" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
