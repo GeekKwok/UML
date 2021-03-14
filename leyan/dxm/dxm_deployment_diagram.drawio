@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T08:21:23.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="v58H1ii1qickfTjWUoPF" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T11:29:03.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="w0DEe3a46rCTmC8XkKu6" version="14.4.6" type="github">
   <diagram id="ZcON_Rk_WTNMlcSxkrlS" name="Page-1">
     <mxGraphModel dx="1310" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
             <mxPoint x="-11" y="-1.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-22" value="《device》&lt;br&gt;&lt;b&gt;Scene Manager Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-22" value="《device》&lt;br&gt;&lt;b&gt;DXM Pkg Manager Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1366" y="1246" width="130" height="124.5" as="geometry" />
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-24" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;scene-manager.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-24" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;dxm-pkg-manager.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1377" y="1306" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=124.5;exitDy=70;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startFill=1;endArrow=none;endFill=0;" parent="1" source="CDfRqWzCQf5GVAwlbsrR-26" target="CDfRqWzCQf5GVAwlbsrR-41" edge="1">
