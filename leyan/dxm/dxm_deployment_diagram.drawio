@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T11:29:03.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="w0DEe3a46rCTmC8XkKu6" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T03:56:24.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="55dyLmE49Bfp3LjMleL4" version="14.4.6" type="github">
   <diagram id="ZcON_Rk_WTNMlcSxkrlS" name="Page-1">
-    <mxGraphModel dx="1310" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="CDfRqWzCQf5GVAwlbsrR-22" target="CDfRqWzCQf5GVAwlbsrR-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-40" value="gRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CDfRqWzCQf5GVAwlbsrR-27" vertex="1" connectable="0">
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-40" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CDfRqWzCQf5GVAwlbsrR-27" vertex="1" connectable="0">
           <mxGeometry x="-0.2679" relative="1" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
@@ -76,7 +76,7 @@
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=67.25;exitDy=130;exitPerimeter=0;entryX=0.542;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;startFill=1;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="CDfRqWzCQf5GVAwlbsrR-26" target="CDfRqWzCQf5GVAwlbsrR-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-50" value="gRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CDfRqWzCQf5GVAwlbsrR-47" vertex="1" connectable="0">
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-50" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CDfRqWzCQf5GVAwlbsrR-47" vertex="1" connectable="0">
           <mxGeometry x="0.0432" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -345,7 +345,7 @@
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-85" value="《device》&lt;br&gt;&lt;b&gt;Policy Task Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1084" y="1026" width="130" height="124.5" as="geometry" />
         </mxCell>
-        <mxCell id="CDfRqWzCQf5GVAwlbsrR-86" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;policy-scene-sync.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="CDfRqWzCQf5GVAwlbsrR-86" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;policy-sync&lt;/b&gt;&lt;b&gt;-scene&lt;/b&gt;&lt;b&gt;.jar&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1094" y="1084.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CDfRqWzCQf5GVAwlbsrR-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=124.5;exitDy=70;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startFill=1;endArrow=none;endFill=0;" parent="1" target="CDfRqWzCQf5GVAwlbsrR-88" edge="1">
