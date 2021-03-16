@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T08:50:48.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="BaNe5nPVSF7MwBMBIJw2" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:01:13.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Cb9d_h7KxDho5o6Ynfu1" version="14.4.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="861" dy="448" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="307" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
           <mxGeometry x="239" y="5" width="130" height="572" as="geometry" />
         </mxCell>
         <mxCell id="r0k6-1nYwtDANl_IEFz3-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="r0k6-1nYwtDANl_IEFz3-1" vertex="1">
-          <mxGeometry x="60" y="99.52" width="10" height="164.48" as="geometry" />
+          <mxGeometry x="60" y="99.52" width="10" height="60.48" as="geometry" />
         </mxCell>
         <mxCell id="s3HkiXh2Q_r6F32R21JA-4" value="&lt;font color=&quot;#262626&quot; face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;updatePackage(modelType:String)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.006;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="r0k6-1nYwtDANl_IEFz3-1" target="s3HkiXh2Q_r6F32R21JA-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,11 +63,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dCMEUsMfVw9QRwQwDLqI-1" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; letter-spacing: 0.12px&quot;&gt;unsubscribePackage(pkgId:Integer)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="r0k6-1nYwtDANl_IEFz3-6">
-          <mxGeometry x="0.0727" relative="1" as="geometry">
-            <mxPoint x="-3" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r0k6-1nYwtDANl_IEFz3-23" value="&lt;b&gt;Dialogue&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="688" y="5" width="105" height="572" as="geometry" />
         </mxCell>
@@ -88,6 +83,9 @@
         </mxCell>
         <mxCell id="s3HkiXh2Q_r6F32R21JA-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="r0k6-1nYwtDANl_IEFz3-2" vertex="1">
           <mxGeometry x="58.55681818181818" y="823.5215444015444" width="7.926136363636363" height="27.768339768339768" as="geometry" />
+        </mxCell>
+        <mxCell id="dCMEUsMfVw9QRwQwDLqI-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="r0k6-1nYwtDANl_IEFz3-2">
+          <mxGeometry x="57.52" y="147" width="10" height="143.48" as="geometry" />
         </mxCell>
         <mxCell id="s3HkiXh2Q_r6F32R21JA-24" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;updatePackage()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.4568" y="-12" relative="1" as="geometry">
@@ -127,15 +125,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dCMEUsMfVw9QRwQwDLqI-2" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;copyPackageScenes(sid:String, pkgId:Integer) /&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;reservePackageScenes(sid:String, pkgId:Integer)&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.038;exitY=0.345;exitPerimeter=0;rounded=1;" edge="1" parent="1">
+        <mxCell id="dCMEUsMfVw9QRwQwDLqI-2" value="&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp; clonePackageScenes(sid:String, pkgId:Integer) /&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;deletePackageScenes(sid:String, pkgId:Integer)&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;chinese quote&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; ; font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.038;exitY=0.345;exitPerimeter=0;rounded=1;" edge="1" parent="1">
           <mxGeometry x="0.1766" y="44" relative="1" as="geometry">
-            <mxPoint x="309" y="120.01999999999998" as="sourcePoint" />
-            <mxPoint x="309" y="158.01999999999998" as="targetPoint" />
+            <mxPoint x="528.42" y="168.01999999999998" as="sourcePoint" />
+            <mxPoint x="528.42" y="206.01999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="363.62" y="119.91999999999996" />
-              <mxPoint x="363.62" y="157.92000000000007" />
+              <mxPoint x="583.04" y="167.91999999999996" />
+              <mxPoint x="583.04" y="205.92000000000007" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCMEUsMfVw9QRwQwDLqI-4" value="&lt;font color=&quot;#262626&quot; face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;subscribePackageAsync(pkgId:Integer)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.009;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.014;exitY=0.792;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r0k6-1nYwtDANl_IEFz3-20" target="dCMEUsMfVw9QRwQwDLqI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.0033333333332" y="152.07999999999998" as="sourcePoint" />
+            <mxPoint x="514.13" y="152.09999999999997" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
