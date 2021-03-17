@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T14:56:07.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9sZNCJk270CJcqNVcRtd" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T04:42:22.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="1roR_lgZmOiwOWNT_vKJ" version="14.4.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="795" dy="413" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="#ffffff" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9DnpWD6-74zl0SitsU4-14" value="[traverse sid list]" style="text;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="409" y="152" width="80" height="20" as="geometry" />
+        <mxCell id="H9DnpWD6-74zl0SitsU4-14" value="[for each sid in list]" style="text;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="404" y="152" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H9DnpWD6-74zl0SitsU4-18" value="&lt;font color=&quot;#262626&quot; face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;writeSidToRedis(sid)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.038;exitY=0.345;exitPerimeter=0;rounded=1;" parent="1" edge="1">
           <mxGeometry x="0.0536" y="-14" relative="1" as="geometry">
@@ -105,7 +105,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9DnpWD6-74zl0SitsU4-25" value="[traverse sid list]" style="text;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="H9DnpWD6-74zl0SitsU4-25" value="[for each sid in list]" style="text;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="656" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H9DnpWD6-74zl0SitsU4-29" value="&lt;font color=&quot;#262626&quot; face=&quot;chinese quote, segoe ui, roboto, pingfang sc, hiragino sans gb, microsoft yahei, helvetica neue, helvetica, arial, sans-serif, apple color emoji&quot;&gt;&lt;span style=&quot;font-size: 8px ; letter-spacing: 0.12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;doPublishScript(sid:String)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1.038;exitY=0.345;exitPerimeter=0;rounded=1;" parent="1" edge="1">
