@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T11:05:36.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8S3dcKJcAxeMUhSaO7OG" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T11:33:32.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CMTOLHIRAs7q8yWHnipu" version="14.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1054" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,9 +113,6 @@
         </mxCell>
         <mxCell id="zyYFIbsGCZffBiA5AzbG-59" value="«Job»" style="html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="788" y="124" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zyYFIbsGCZffBiA5AzbG-60" value="&lt;h1&gt;Quartz 组件重构&lt;/h1&gt;&lt;p&gt;原有设计：&lt;/p&gt;&lt;p&gt;1. 类之间的耦合性较大，不太符合“高内聚、低耦合” 和 LOD 原则&lt;/p&gt;&lt;p&gt;2. 新增一个 Job 需要新增 2 个类、修改 2 个类，开闭性不太好，且随着业务 Job 增多，类之间的耦合性也越大&lt;/p&gt;&lt;p&gt;3. Quartz 每执行一次 Job 就会 new 一个 Job 对象，因此默认不受 DI 管控，原代码中通过新建 injector 注入需要引用的对象，注意这里有坑：&lt;br&gt;- 首先，每个 Job 都自建一个 injector，且该注入器与服务入口创建的 injector 不是同一个，这样 Job 中引用的对象会在不同的 injector 都有一份，Job 越多则 injector 也越多&lt;/p&gt;&lt;p&gt;- 其次，若 Job 中引用的是 service 或 apollo config 对象则还好，若是带数据的容器对象则有问题，因为完全是两个对象&lt;/p&gt;&lt;p&gt;4. AbstractScheduler 实现了 ReloadProperty 接口，且通过继承为每个 Job 实现具体的 Scheduler，则每个 Scheduler 都是 Apollo Config Listener，随着业务 Job 增多，Scheduler 也增多，随之 Listener 也增多&lt;/p&gt;&lt;p&gt;重构设计：&lt;/p&gt;&lt;p&gt;1.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="560" width="480" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
