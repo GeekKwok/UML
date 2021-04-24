@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:47:05.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SbnEehiolgF5lhJWcXnj" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T09:48:13.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JyHbQmx5z_V4tB2dlx5A" version="14.5.10" type="github">
   <diagram id="WrakgBdBrmBTxCSfvUGM" name="Page-1">
     <mxGraphModel dx="988" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -119,10 +119,10 @@
           <mxGeometry x="958" y="680" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-45" value="产品（AI）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="898" y="680" width="54" height="30" as="geometry" />
+          <mxGeometry x="889" y="680" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-46" value="产品&lt;br&gt;（大数据）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="830" y="680" width="62" height="30" as="geometry" />
+          <mxGeometry x="825" y="680" width="62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-47" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="590" width="330" height="150" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-59" value="业务增长" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="265" y="681" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-60" value="产品&lt;br&gt;（其他业务）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="746" y="681" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
