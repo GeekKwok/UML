@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:55:47.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rILsqZf5U-FGnMI0TwnB" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T09:57:49.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="E1R2tgB8LYhG7Set1GBZ" version="14.5.10" type="github">
   <diagram id="WrakgBdBrmBTxCSfvUGM" name="Page-1">
     <mxGraphModel dx="988" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-72" value="文化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="321" y="191" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ukXIebA3-z8fnQ9jyF_z-73" value="梯队" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-73" value="梯队&lt;br&gt;（职级）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="321" y="241" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
