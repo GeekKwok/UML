@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:10:01.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hiarclkXwXIat80F2JyW" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T09:11:25.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9FLGrqttkemOYdvFwj6y" version="14.5.10" type="github">
   <diagram id="WrakgBdBrmBTxCSfvUGM" name="Page-1">
     <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="350" height="230" as="geometry" />
+          <mxGeometry x="90" y="79" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="350" height="230" as="geometry" />
+          <mxGeometry x="730" y="79" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="350" height="230" as="geometry" />
+          <mxGeometry x="90" y="519" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="520" width="350" height="230" as="geometry" />
+          <mxGeometry x="730" y="519" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;项目协同管理：增强协同效率&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="90" width="250" height="50" as="geometry" />
+          <mxGeometry x="780" y="89" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;团队建设与管理：&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;绩效与激励体系&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="250" height="50" as="geometry" />
+          <mxGeometry x="140" y="89" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;战略管理：业务目标&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="530" width="250" height="50" as="geometry" />
+          <mxGeometry x="140" y="529" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;端到端产品管理：组织调整到位&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="530" width="250" height="50" as="geometry" />
+          <mxGeometry x="780" y="529" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
