@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:50:35.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="oDJ_4jdJ8Xr-MshEBNO6" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T09:55:47.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rILsqZf5U-FGnMI0TwnB" version="14.5.10" type="github">
   <diagram id="WrakgBdBrmBTxCSfvUGM" name="Page-1">
     <mxGraphModel dx="988" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -147,6 +147,30 @@
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-61" value="运营" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="946" y="634" width="29" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-62" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-63" value="团队建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-64" value="能力" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="136" y="191" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-65" value="激励" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="136" y="241" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-68" value="分工" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="228" y="191" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-69" value="协作" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="228" y="241" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-72" value="文化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="321" y="191" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-73" value="梯队" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="321" y="241" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
