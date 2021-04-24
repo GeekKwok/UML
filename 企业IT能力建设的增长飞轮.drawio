@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:57:49.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="E1R2tgB8LYhG7Set1GBZ" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T10:12:23.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vHAkNFTYCey5piyTyfv9" version="14.5.10" type="github">
   <diagram id="WrakgBdBrmBTxCSfvUGM" name="Page-1">
     <mxGraphModel dx="988" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;项目协同管理：增强协同效率&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="89" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ukXIebA3-z8fnQ9jyF_z-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;团队建设与管理：&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;绩效与激励体系&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-7" value="&lt;b style=&quot;font-size: 16px&quot;&gt;绩效与激励体系：激发团队活力&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="89" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;企业战略管理：达成业务目标&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;glass=0;" vertex="1" parent="1">
@@ -151,8 +151,8 @@
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-62" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="330" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ukXIebA3-z8fnQ9jyF_z-63" value="团队建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="70" height="20" as="geometry" />
+        <mxCell id="ukXIebA3-z8fnQ9jyF_z-63" value="团队建设与管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="215" y="160" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ukXIebA3-z8fnQ9jyF_z-64" value="能力" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="136" y="191" width="70" height="40" as="geometry" />
