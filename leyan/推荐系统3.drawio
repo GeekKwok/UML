@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T14:42:31.913Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="MgUT18H5wH3HWO_b29tJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T14:46:26.855Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="quCgm32sgx1f8SXOlTqn" version="14.8.6" type="github">
   <diagram id="2-J2qN13itrG-7gbaCbb" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="jO03E6OEi6h6eWrum5zZ-17" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="150" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="jO03E6OEi6h6eWrum5zZ-18" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据ETL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;opacity=50;" vertex="1" parent="1">
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-18" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据整理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="488" y="360" width="150" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jO03E6OEi6h6eWrum5zZ-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;画像体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;opacity=50;" vertex="1" parent="1">
@@ -56,10 +56,40 @@
           <mxGeometry x="1170" y="360" width="150" height="380" as="geometry" />
         </mxCell>
         <mxCell id="jO03E6OEi6h6eWrum5zZ-22" value="用户及行为数据" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="400" width="135" height="65" as="geometry" />
+          <mxGeometry x="267.5" y="405" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="jO03E6OEi6h6eWrum5zZ-23" value="商品数据" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="500" width="135" height="65" as="geometry" />
+          <mxGeometry x="267.5" y="505" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-24" value="搭配师经验数据" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="605" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-25" value="数据清洗" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="405" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-26" value="数据归并" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="505" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-27" value="数据标注" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="605" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-28" value="用户画像" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="405" width="135" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-29" value="商品画像" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="565" width="135" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-30" value="自然语言处理" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="405" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-32" value="机器学习" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="474.5" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-33" value="智能推荐" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="546" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jO03E6OEi6h6eWrum5zZ-34" value="深度学习" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="615" width="135" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
