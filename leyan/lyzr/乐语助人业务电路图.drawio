@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T13:31:24.998Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SZP0Ewh-Q7X1cexSXfUl" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T13:32:42.109Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="soE7bZyrV1m9SoqFpTMZ" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="180" y="50" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-13" value="客户、合同管理系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="560" height="240" as="geometry" />
+          <mxGeometry x="160" y="160" width="520" height="240" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-14" value="CRM系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="220" height="200" as="geometry" />
@@ -69,6 +69,27 @@
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-21" value="计划拜访" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-22" value="BOSS系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-23" value="分组管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-24" value="客户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-25" value="合同（线下）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="470" y="285" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-26" value="报账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="560" y="285" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-27" value="报表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-28" value="计划拜访" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
