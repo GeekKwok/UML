@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T13:10:13.917Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.8.6" etag="qHxX35ioYJHeBM_7JVJy" type="github"><diagram id="zcCJHnGb3e6NU65mhvEJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-30T13:23:51.122Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="693_i2n_HCTU0pSSlu5d" version="14.8.6" type="github">
+  <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
+    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EMmTePQHCilCIxiALx4h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="1400" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-3" value="角色" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-4" value="核心系统" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-5" value="领域边界" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-6" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="24.5" as="sourcePoint" />
+            <mxPoint x="330" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-7" value="信息流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="15" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-8" value="" style="endArrow=classic;html=1;strokeColor=#007FFF;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="24.5" as="sourcePoint" />
+            <mxPoint x="410" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-9" value="人流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410" y="15" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-10" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="24.5" as="sourcePoint" />
+            <mxPoint x="490" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-11" value="资金流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="15" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-12" value="角色" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-13" value="客户、合同管理系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="320" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
