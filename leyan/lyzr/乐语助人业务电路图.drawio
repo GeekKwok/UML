@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T14:15:05.969Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HnKnI3x9wzMmKaFFvbF4" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T14:15:42.659Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3tQGkzJjQ1YQIm6NdYky" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,11 +151,11 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-59" value="微信系统" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-63" value="开店" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-62" target="EMmTePQHCilCIxiALx4h-30">
+        <mxCell id="EMmTePQHCilCIxiALx4h-63" value="开店" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-62" target="EMmTePQHCilCIxiALx4h-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1142" y="130" />
-              <mxPoint x="920" y="130" />
+              <mxPoint x="950" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,12 +165,13 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-65" value="处理工单&lt;br&gt;上报Case" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-62" target="EMmTePQHCilCIxiALx4h-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-66" value="日常任务处理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-62" target="EMmTePQHCilCIxiALx4h-49">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="EMmTePQHCilCIxiALx4h-66" value="日常任务处理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-62" target="EMmTePQHCilCIxiALx4h-49">
+          <mxGeometry x="0.0932" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1178" y="130" />
-              <mxPoint x="1400" y="130" />
+              <mxPoint x="1370" y="130" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-62" value="技术支持" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
