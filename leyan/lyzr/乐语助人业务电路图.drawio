@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T14:55:35.344Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BqDAVq2insrynCDGoOpX" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T15:02:13.148Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="45kLE_l6B9QRkGV5jH2f" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,13 +468,32 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-146" value="&lt;span&gt;trade-server&lt;/span&gt;&lt;br&gt;&lt;span&gt;订单服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1040" y="690" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-161" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;entryX=1;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-149" target="EMmTePQHCilCIxiALx4h-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="748" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1045" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-163" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-149" target="EMmTePQHCilCIxiALx4h-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="740" />
+              <mxPoint x="880" y="740" />
+              <mxPoint x="880" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-149" value="item-server&lt;br style=&quot;font-size: 8px;&quot;&gt;商品服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1030" y="760" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-150" target="EMmTePQHCilCIxiALx4h-107">
+        <mxCell id="EMmTePQHCilCIxiALx4h-159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-150">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1130" y="750" />
+              <mxPoint x="1130" y="740" />
+              <mxPoint x="700" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -487,8 +506,16 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-152" value="policy-api&lt;br style=&quot;font-size: 8px&quot;&gt;场景服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="960" y="760" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-160" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.001;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-153" target="EMmTePQHCilCIxiALx4h-107">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EMmTePQHCilCIxiALx4h-160" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="600" />
+              <mxPoint x="900" y="600" />
+              <mxPoint x="900" y="570" />
+              <mxPoint x="840" y="570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-153" value="&lt;font style=&quot;font-size: 8px&quot;&gt;turnstile-grpc&lt;br style=&quot;font-size: 8px&quot;&gt;商品尺码服务&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1170" y="760" width="60" height="40" as="geometry" />
