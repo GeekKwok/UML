@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T13:02:00.142Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="P-kRM7RHb7K3KBCgwuG1" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T13:12:10.706Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Nv_FdQ7wl1t7Oglx7jxV" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,14 +245,40 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-84" value="分析报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1365" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-87" value="销售" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="30" y="555" width="50" height="30" as="geometry" />
+        <mxCell id="EMmTePQHCilCIxiALx4h-92" value="开启" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-87" target="EMmTePQHCilCIxiALx4h-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-94" value="沟通客户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-87" target="EMmTePQHCilCIxiALx4h-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-87" value="客服" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="30" y="645" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-88" value="实时问答系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="560" height="320" as="geometry" />
+          <mxGeometry x="240" y="480" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-90" value="店铺运营管理系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="840" y="480" width="640" height="320" as="geometry" />
+          <mxGeometry x="840" y="480" width="640" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-95" value="自动应答" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-91" target="EMmTePQHCilCIxiALx4h-93">
+          <mxGeometry x="0.2863" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="593" />
+              <mxPoint x="85" y="593" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-91" value="客户端&lt;br&gt;Dice Client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-96" value="收集问题" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-93" target="EMmTePQHCilCIxiALx4h-91">
+          <mxGeometry x="-0.0476" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-93" value="千牛系统" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="25" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
