@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T13:34:44.694Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fk_ImDaypTXi_lowjieu" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T13:35:00.814Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GzU9uB0I3NcS3PUKzjPX" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,9 +245,6 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-84" value="分析报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1365" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-92" value="开启" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-87" target="EMmTePQHCilCIxiALx4h-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-94" value="沟通客户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-87" target="EMmTePQHCilCIxiALx4h-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -321,6 +318,9 @@
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-111" value="ContextManager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="757" y="720" width="83" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-92" value="开启" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-87" target="EMmTePQHCilCIxiALx4h-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
