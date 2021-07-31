@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T14:23:05.136Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="j6BlCGgL26BiaLFn4J8e" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T14:24:48.712Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kfWWk7v7Qtj5BLyGzCyY" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,11 @@
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-29" value="店铺运营管理系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="640" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-147" value="订阅" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.373;exitY=-0.001;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-30" target="EMmTePQHCilCIxiALx4h-69">
+          <mxGeometry x="-0.1155" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-30" value="Flashcard小本本&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="860" y="190" width="120" height="190" as="geometry" />
@@ -204,9 +209,10 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-67" value="实施" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1240" y="70" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-71" value="授权回调" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-69">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="EMmTePQHCilCIxiALx4h-71" value="授权" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-69">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
             <mxPoint x="920" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-69" value="服务市场" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
