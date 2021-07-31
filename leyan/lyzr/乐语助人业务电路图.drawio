@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T14:01:03.569Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bCStFbwdInw5sfSaq3St" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T14:03:57.302Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cQbfMi9Pgfw1tDtnr6nY" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,16 +349,16 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-119" value="领域服务层&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="905" y="500" width="395" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-120" value="KV系统&lt;br&gt;hela-server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-120" value="hela-server&lt;br&gt;KV服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1340" y="603" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-122" value="话术系统&lt;br&gt;bible" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-122" value="bible&lt;br&gt;话术服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1340" y="670" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-123" value="店铺元信息&lt;br&gt;user-center" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-123" value="user-center&lt;br&gt;店铺元信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1340" y="535" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-124" value="Concept系统&lt;br&gt;leyan-pv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-124" value="leyan-pv&lt;br&gt;Concept服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1340" y="737.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-125" value="上下文管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
