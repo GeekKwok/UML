@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T13:35:52.810Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_Mb5RptcuoR0dcNgIHFZ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T13:37:05.104Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="U3zJqkck1r1eKrsPZSE_" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,6 +312,9 @@
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-107" value="Dialogue对话引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=5;fillColor=#dae8fc;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EMmTePQHCilCIxiALx4h-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.005;exitY=0.142;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;horizontal=0;exitPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-107" target="EMmTePQHCilCIxiALx4h-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-110" value="Treasure BFF" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="757" y="520" width="83" height="80" as="geometry" />
