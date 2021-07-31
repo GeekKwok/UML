@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T13:58:51.418Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9an4KSUk9fX4YEZTYIhv" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-31T13:59:02.975Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jcwmFYVXeIyDVYwVXiXj" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-98" value="问题" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-91" target="EMmTePQHCilCIxiALx4h-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-91" value="客户端&lt;br&gt;Dice Client&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-91" value="Dice Client&lt;br&gt;客户端&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="180" y="580" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-96" value="收集问题" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.045;entryDx=0;entryDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;entryPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-93" target="EMmTePQHCilCIxiALx4h-91">
