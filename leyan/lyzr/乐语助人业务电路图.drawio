@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T10:35:56.176Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HiXEDo9vL8SsK1UbK5fk" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T10:36:39.322Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yWs39bu_1auMZNa4TiOz" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -658,21 +658,23 @@
           <mxGeometry x="2309.95" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-36" value="店铺配置更新" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;jumpStyle=arc;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-8" target="MYYeucDzJQ9u9MPqRvMF-57">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.298" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2010" y="1270" />
               <mxPoint x="1562" y="1270" />
               <mxPoint x="1562" y="1240" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-37" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-8" target="MYYeucDzJQ9u9MPqRvMF-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.4867" relative="1" as="geometry">
             <mxPoint x="1604" y="1060" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2010" y="1040" />
               <mxPoint x="1603" y="1040" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
@@ -685,16 +687,19 @@
           <mxGeometry x="2180" y="1030" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-38" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#000000;strokeColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0969" relative="1" as="geometry">
             <mxPoint x="1840" y="1070" as="sourcePoint" />
             <mxPoint x="1603" y="1050" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1603" y="1050" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-39" value="店铺配置更新" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.618;entryY=0.999;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;entryPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12" target="MYYeucDzJQ9u9MPqRvMF-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1149" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-12" value="Citi模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1050" width="100" height="190" as="geometry" />
