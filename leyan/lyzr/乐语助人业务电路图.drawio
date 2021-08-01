@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T14:05:33.624Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GdxLfIqSHedwG2FsYuUv" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T14:06:28.100Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m-cSLOqH43nlEde5-J8g" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="826" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -889,6 +889,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.324;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-72" target="EMmTePQHCilCIxiALx4h-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="923" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-72" value="&lt;b&gt;LU-Manager聚合服务&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="910" y="910" width="540" height="50" as="geometry" />
         </mxCell>
@@ -1036,6 +1043,9 @@
               <mxPoint x="1045" y="850" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-111" target="MYYeucDzJQ9u9MPqRvMF-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-111" value="ContextManager&lt;br&gt;上下文管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=9;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="757" y="820" width="83" height="80" as="geometry" />
