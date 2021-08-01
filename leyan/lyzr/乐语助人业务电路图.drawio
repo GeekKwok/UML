@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T13:51:14.044Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="R0q42vqhzEHlYCFuASrH" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T13:58:01.614Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Lzwy5bHRU4Y7HKWoP0XP" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3443" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -875,11 +875,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.48;exitY=1.004;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-72" target="MYYeucDzJQ9u9MPqRvMF-101">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.48;exitY=1.004;exitDx=0;exitDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-72" target="MYYeucDzJQ9u9MPqRvMF-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1169" y="980" />
-              <mxPoint x="985" y="980" />
+              <mxPoint x="970" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -920,12 +920,6 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-76" value="Embedding-Search服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1049.99" y="1100" width="70.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-77" value="Classifier&lt;br&gt;分类算法服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1139.99" y="1100" width="80" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-78" value="TF-Serving&lt;br&gt;分类算法服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1100" width="69.99" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-79" value="质检系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="880" width="160" height="400" as="geometry" />
         </mxCell>
@@ -945,8 +939,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1490" y="1200" />
-              <mxPoint x="1490" y="1120" />
-              <mxPoint x="1320" y="1120" />
+              <mxPoint x="1490" y="1130" />
+              <mxPoint x="1320" y="1130" />
               <mxPoint x="1320" y="1045" />
             </Array>
           </mxGeometry>
@@ -992,15 +986,39 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-2" target="MYYeucDzJQ9u9MPqRvMF-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-2" target="MYYeucDzJQ9u9MPqRvMF-73">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.619;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-2" target="MYYeucDzJQ9u9MPqRvMF-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1510" y="1075" />
-              <mxPoint x="1510" y="1110" />
+              <mxPoint x="1480" y="1064" />
+              <mxPoint x="1480" y="1110" />
               <mxPoint x="1330" y="1110" />
               <mxPoint x="1330" y="1028" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.003;exitY=0.364;exitDx=0;exitDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="1044" />
+              <mxPoint x="1490" y="990" />
+              <mxPoint x="980" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.997;entryY=0.334;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;entryPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-2" target="MYYeucDzJQ9u9MPqRvMF-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="1075" />
+              <mxPoint x="1490" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-77" value="Classifier&lt;br&gt;分类算法服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1139.99" y="1100" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-78" value="TF-Serving&lt;br&gt;分类算法服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1100" width="69.99" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
