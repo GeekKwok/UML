@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T08:59:28.011Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="r8PPMnnBsdbC047GXCzf" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T09:05:26.881Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LzcrLYSJmoCVXYM4XCbn" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,6 +626,15 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-2" value="OSS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=9;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1040" width="83" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-3" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;模型制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1150" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-4" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;意图包制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1030" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-5" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;场景包制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="910" width="560" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
