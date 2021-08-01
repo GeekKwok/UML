@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T09:30:54.395Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sF_UBi28jDGgdF6o4X3Z" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T09:33:35.323Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="v-oc5clC_7smU3pLf3YD" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -649,7 +649,7 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-6" value="Excel" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2309.95" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo&lt;br&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1170" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#007FFF;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-9" target="MYYeucDzJQ9u9MPqRvMF-14">
@@ -681,6 +681,12 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-22" value="Sentences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1214" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-23" value="Vector Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1189" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-24" value="SC Triggers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1214" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
