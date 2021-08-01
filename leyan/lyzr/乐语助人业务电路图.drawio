@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T13:59:28.860Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qfp56ZOGTsx2TRq4k--N" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T13:59:50.837Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w0wyyJL2w35LSzt7naQw" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1020,7 +1020,7 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-78" value="TF-Serving&lt;br&gt;分类算法服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1100" width="69.99" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-107" value="Regex Rule&lt;br&gt;正则化规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-107" value="Regex Rules&lt;br&gt;正则化规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1141" y="1030" width="77.97" height="41" as="geometry" />
         </mxCell>
       </root>
