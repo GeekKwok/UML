@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T09:21:26.772Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BSRSGI_0TkusB2zm-bO-" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T09:23:45.971Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="foHsFpmNE-MUU4-hRj5z" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,7 +606,7 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-172" value="自然语言理解系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="880" y="880" width="600" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-110" value="Treasure&lt;br&gt;BFF聚合服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-110" value="Treasure&lt;br&gt;代理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="757" y="620" width="83" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-173" value="模型、意图包、场景包制作系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" parent="1" vertex="1">
@@ -638,25 +638,31 @@
           <mxGeometry x="1520" y="1040" width="83" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-3" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;模型制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="1150" width="500" height="110" as="geometry" />
+          <mxGeometry x="1660" y="1150" width="450" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-4" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;意图包制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="1030" width="500" height="110" as="geometry" />
+          <mxGeometry x="1660" y="1030" width="450" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-5" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;场景包制作&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="910" width="500" height="110" as="geometry" />
+          <mxGeometry x="1660" y="910" width="450" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-6" value="Excel" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo&lt;br&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="1170" width="100" height="70" as="geometry" />
+          <mxGeometry x="1900" y="1170" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-9" value="Shadow&lt;br&gt;制作中台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="1030" width="60" height="110" as="geometry" />
+          <mxGeometry x="2180" y="1030" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-12" value="Citi&lt;br&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1170" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-13" value="WellsFargo&lt;br&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1400" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-14" value="Broker&lt;br&gt;代理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1030" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
