@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T10:11:35.031Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="oWLq0k9SF3c_23Gb6Byy" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T10:15:42.949Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2vkeZl6H-4RHIVKHoofC" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="480" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -665,11 +665,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-37" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-8" target="MYYeucDzJQ9u9MPqRvMF-2">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-37" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-8" target="MYYeucDzJQ9u9MPqRvMF-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1604" y="1060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1985" y="1140" />
-              <mxPoint x="1582" y="1140" />
+              <mxPoint x="2010" y="1050" />
+              <mxPoint x="1603" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -682,11 +683,12 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-9" value="Shadow&lt;br&gt;制作中台&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2180" y="1030" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-38" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12" target="MYYeucDzJQ9u9MPqRvMF-2">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-38" value="打包模型并上传" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12" target="MYYeucDzJQ9u9MPqRvMF-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1070" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1890" y="1150" />
-              <mxPoint x="1561" y="1150" />
+              <mxPoint x="1890" y="1060" />
+              <mxPoint x="1603" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -702,8 +704,23 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-31" value="&lt;font color=&quot;#000000&quot;&gt;场景&lt;br&gt;触发&lt;br&gt;信息&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;entryX=0.998;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-48" value="场景回复信息" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-48" value="场景&lt;br&gt;回复&lt;br&gt;信息" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-42">
+          <mxGeometry x="-0.6551" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2090" y="1058" />
+              <mxPoint x="2090" y="1020" />
+              <mxPoint x="1950" y="1020" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-49" value="模型&lt;br&gt;信息" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2090" y="1113" />
+              <mxPoint x="2090" y="1198" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-14" value="Broker&lt;br&gt;代理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2110" y="1030" width="50" height="110" as="geometry" />
