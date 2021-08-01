@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T09:33:35.323Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="v-oc5clC_7smU3pLf3YD" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T09:36:31.451Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="aC2PErNq9V1CpKR5_CcR" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,15 +618,18 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-175" value="配店师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2315" y="594" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-7" value="线下训练" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-6">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-7" value="线下训练模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-6">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-10" value="&lt;font color=&quot;#000000&quot;&gt;制作&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;entryX=1.001;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-10" value="&lt;font color=&quot;#000000&quot;&gt;制作意图包&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2230" y="1084.4399999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-26" value="&lt;font color=&quot;#000000&quot;&gt;制作场景包&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.993;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-176" value="人工智能训练师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2314.95" y="1070" width="50" height="30" as="geometry" />
@@ -687,6 +690,9 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-24" value="SC Triggers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1214" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-25" value="配店师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2314.95" y="950" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
