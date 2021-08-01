@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T14:28:51.416Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="RA5nsV9xPO_O4kQoBRAe" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T14:31:32.911Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CNO5nCX7djz9-Yx_o84s" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-127" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="610" y="504" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-128" value="动态回复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-128" value="跳答" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="440" y="559" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-129" value="机器人模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
@@ -420,10 +420,10 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-132" value="首句欢迎语" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="525" y="693" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-133" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-133" value="感叹号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="610" y="693" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-134" value="上下文管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-134" value="重复回复限制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="440" y="748" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-135" value="路由" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
