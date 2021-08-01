@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T09:36:31.451Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="aC2PErNq9V1CpKR5_CcR" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T09:44:41.768Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="V4aU5BEYInbEYfR0vSHW" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="689" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -619,7 +619,7 @@
           <mxGeometry x="2315" y="594" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-7" value="线下训练模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-6">
-          <mxGeometry x="-0.2" relative="1" as="geometry">
+          <mxGeometry x="0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -630,6 +630,11 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-26" value="&lt;font color=&quot;#000000&quot;&gt;制作场景包&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.993;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-30" value="&lt;font color=&quot;#000000&quot;&gt;导入模型&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-176" target="MYYeucDzJQ9u9MPqRvMF-9">
+          <mxGeometry x="0.227" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-176" value="人工智能训练师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2314.95" y="1070" width="50" height="30" as="geometry" />
@@ -667,6 +672,9 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-13" value="WellsFargo&lt;br&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1400" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-14" value="Broker&lt;br&gt;代理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2110" y="1030" width="50" height="110" as="geometry" />
         </mxCell>
@@ -693,6 +701,21 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-25" value="配店师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2314.95" y="950" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#007FFF;strokeColor=#007FFF;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-28" target="MYYeucDzJQ9u9MPqRvMF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-28" value="算法&lt;br&gt;工程师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1744.9999999999998" y="1360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-33" value="Ducati配置系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1170" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-34" value="Rule" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-35" value="训练数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1215" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
