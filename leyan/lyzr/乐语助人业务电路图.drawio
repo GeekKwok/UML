@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T10:34:35.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="y63hJMagfInL7KNouVbx" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T10:35:56.176Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HiXEDo9vL8SsK1UbK5fk" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,7 +693,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-39" value="店铺配置更新" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12" target="MYYeucDzJQ9u9MPqRvMF-57">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-39" value="店铺配置更新" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.618;entryY=0.999;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;entryPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-12" target="MYYeucDzJQ9u9MPqRvMF-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-12" value="Citi模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
