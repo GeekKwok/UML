@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T10:36:39.322Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yWs39bu_1auMZNa4TiOz" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T10:39:02.320Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="00Sjz8lpAvEJhcitz9l0" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,9 +677,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1050" width="100" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#007FFF;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-9" target="MYYeucDzJQ9u9MPqRvMF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -701,7 +698,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-12" value="Citi模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-12" value="Citi模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1050" width="100" height="190" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-31" value="&lt;font color=&quot;#000000&quot;&gt;场景&lt;br&gt;触发&lt;br&gt;信息&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;entryX=0.996;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MYYeucDzJQ9u9MPqRvMF-14" target="MYYeucDzJQ9u9MPqRvMF-8">
@@ -746,11 +743,8 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-20" value="训练数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1730" y="1214" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-22" value="天天学意图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-22" value="天天学意图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1182.5" width="80" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-24" value="SC Triggers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1080" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-25" value="配店师" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2314.95" y="950" width="50" height="30" as="geometry" />
@@ -781,20 +775,11 @@
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-45" value="版本管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1990" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-46" value="Keywords" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-46" value="Keywords" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1084" width="80" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-47" value="&lt;span&gt;Sentences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-47" value="&lt;span&gt;Sentences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1133" width="80" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-50" value="Vector Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1119" width="80" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-52" value="冲突检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1158" width="80" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="MYYeucDzJQ9u9MPqRvMF-53" value="注册表校验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1197" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-57" value="Ducati配置系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=9;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1160" width="83" height="80" as="geometry" />
@@ -807,6 +792,28 @@
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-60" value="HIVE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2110" y="1200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;fontColor=#007FFF;entryX=1;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MYYeucDzJQ9u9MPqRvMF-12">
+          <mxGeometry x="-0.2063" relative="1" as="geometry">
+            <mxPoint x="2110.4" y="1070.04" as="sourcePoint" />
+            <mxPoint x="2060" y="1070" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-8" value="WellsFargo模型服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1050" width="100" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-24" value="SC Triggers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1080" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-50" value="Vector Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1119" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-52" value="冲突检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1158" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-53" value="注册表校验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1197" width="80" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
