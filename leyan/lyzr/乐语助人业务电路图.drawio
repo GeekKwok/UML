@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T12:47:04.488Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="G8C1aAiZcVZbpj7i9wnY" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T12:56:16.480Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OknJTY8Zde6fBHIjT_YE" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -646,7 +646,7 @@
           <mxGeometry x="2314.95" y="1070" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-1" value="智能营销系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="160" y="880" width="560" height="400" as="geometry" />
+          <mxGeometry x="360" y="880" width="360" height="400" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-2" value="OSS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;arcSize=9;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1020" width="83" height="80" as="geometry" />
@@ -847,7 +847,28 @@
           <mxGeometry x="1340" y="990" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="MYYeucDzJQ9u9MPqRvMF-72" value="LU-Manager&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1129.98" y="912.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="910" y="912.5" width="540" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-73" value="NLU-Server意图识别服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1020" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-74" value="Keywords&lt;br&gt;关键词识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1062.02" y="1040" width="107.98" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-75" value="Sentences&lt;br&gt;正反例句识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1040" width="108.97" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-76" value="Embedding-Search服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1049.98" y="1110" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-77" value="Classifier服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1139.98" y="1110" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-78" value="TF-Serving服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1229.98" y="1110" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MYYeucDzJQ9u9MPqRvMF-79" value="质检系统&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="160" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
