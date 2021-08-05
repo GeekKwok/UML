@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T13:43:20.134Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HfUGNs8VdZhQ5Zlm6iPJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T13:45:49.749Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0O-I4dVuYpXq877Fs-Re" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-154" value="Moneta-Service&lt;br style=&quot;font-size: 8px&quot;&gt;买家标签服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-154" value="Moneta-Service&lt;br&gt;GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;买家标签服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1120" y="671" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-141" value="Turnstile-GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;包邮活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
@@ -1225,6 +1225,12 @@
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-21" value="Store-Home-Web&lt;br style=&quot;font-size: 8px&quot;&gt;首句欢迎语" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1910" y="530" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fyLro8OaDeAJscRNNPWM-22" value="Moneta-Web&lt;br style=&quot;font-size: 8px&quot;&gt;买家标签服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="671" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fyLro8OaDeAJscRNNPWM-23" value="locker&lt;br style=&quot;font-size: 8px&quot;&gt;智能锁单服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="599" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
