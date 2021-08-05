@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T13:57:55.202Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WdSbXCVSRcKgexnMaXRi" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T13:59:16.646Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="77QsMdavoDpAC2-bMRJm" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1206,40 +1206,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-15" value="Turnstile&lt;br style=&quot;font-size: 8px&quot;&gt;店铺配置信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="499.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1715" y="499" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-16" value="Flashcard&lt;br style=&quot;font-size: 8px&quot;&gt;店铺元信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="499.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1800" y="499" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-17" value="Policy-Web&lt;br style=&quot;font-size: 8px&quot;&gt;场景服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1715" y="760" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-18" value="Citi&lt;br style=&quot;font-size: 8px&quot;&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1855" y="760" width="60" height="40" as="geometry" />
+          <mxGeometry x="1800" y="760" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-19" value="Discount-Web&lt;br style=&quot;font-size: 8px&quot;&gt;新优惠活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="499.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1885" y="499" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-20" value="Lighthouse-Web&lt;br style=&quot;font-size: 8px&quot;&gt;灯塔助手服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="499.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1970" y="499" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-21" value="Store-Home-Web&lt;br style=&quot;font-size: 8px&quot;&gt;首句欢迎语" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="499.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1970" y="549" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-22" value="Moneta-Web&lt;br style=&quot;font-size: 8px&quot;&gt;买家标签服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="690" width="60" height="40" as="geometry" />
+          <mxGeometry x="1715" y="688" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-23" value="Locker&lt;br style=&quot;font-size: 8px&quot;&gt;智能锁单服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="619" width="60" height="40" as="geometry" />
+          <mxGeometry x="1715" y="619" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-24" value="Clerks&lt;br style=&quot;font-size: 8px&quot;&gt;账号绑定服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1795" y="619" width="60" height="40" as="geometry" />
+          <mxGeometry x="1800" y="619" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-25" value="Fred&lt;br style=&quot;font-size: 8px&quot;&gt;报表服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="549" width="60" height="40" as="geometry" />
+          <mxGeometry x="1715" y="549" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-29" value="Stats&lt;br style=&quot;font-size: 8px&quot;&gt;统计服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="549" width="60" height="40" as="geometry" />
+          <mxGeometry x="1800" y="549" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-30" value="&lt;div style=&quot;font-size: 8px&quot;&gt;营销&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1950" y="609" width="100" height="101" as="geometry" />
