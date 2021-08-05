@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T13:41:46.274Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hnUQJtwtHDUk8vQUbRbr" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T13:42:35.428Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Uj9OT-R0hfYltuVzZUTe" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-144" value="Lighthouse&lt;br style=&quot;font-size: 8px&quot;&gt;灯塔助手服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-144" value="Lighthouse-GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;灯塔助手服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1200" y="530" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-157" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" parent="1" source="EMmTePQHCilCIxiALx4h-146" edge="1">
@@ -566,7 +566,7 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-142" value="Discount-GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;新优惠活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1040" y="530" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-143" value="Store-Home&lt;br style=&quot;font-size: 8px&quot;&gt;首句欢迎语" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-143" value="Store-Home-GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;首句欢迎语" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1120" y="530" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-169" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;startArrow=none;startFill=0;strokeColor=#000000;" parent="1" source="EMmTePQHCilCIxiALx4h-124" edge="1">
