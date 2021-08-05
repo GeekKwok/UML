@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T13:40:41.170Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QlWjW1zXHyHAJw300pvc" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T13:41:13.715Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="e6cIziWRyAARV-kN7ZWU" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1217,8 +1217,8 @@
         <mxCell id="fyLro8OaDeAJscRNNPWM-18" value="Citi&lt;br style=&quot;font-size: 8px&quot;&gt;模型服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1800" y="760" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fyLro8OaDeAJscRNNPWM-19" value="Discount-GRPC&lt;br style=&quot;font-size: 8px&quot;&gt;新优惠活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="480" width="60" height="40" as="geometry" />
+        <mxCell id="fyLro8OaDeAJscRNNPWM-19" value="Discount-Web&lt;br style=&quot;font-size: 8px&quot;&gt;新优惠活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="530" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
