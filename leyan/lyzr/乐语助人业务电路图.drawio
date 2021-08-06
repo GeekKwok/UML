@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T04:43:15.810Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sIondNGbGXOf6dRFmOR9" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T06:53:56.876Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="G-MHe1Bnwv_kTx6sxo8v" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="2431" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1388,6 +1388,15 @@
             <Array as="points">
               <mxPoint x="1830" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyLro8OaDeAJscRNNPWM-51" value="保存话术信息" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;" edge="1" parent="1" source="fyLro8OaDeAJscRNNPWM-17" target="EMmTePQHCilCIxiALx4h-122">
+          <mxGeometry x="0.5574" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="770" />
+              <mxPoint x="1590" y="684" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
