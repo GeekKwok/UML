@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T12:48:38.520Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="I0J8Cof0auxbQppCf58V" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T13:01:06.482Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VjtxVVAzWg088TCZ1Bnm" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1623,6 +1623,9 @@
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-153" value="Global-Search&lt;br style=&quot;font-size: 8px&quot;&gt;全局搜索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=90;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1860" y="760" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fyLro8OaDeAJscRNNPWM-156" value="涉及业务流程：1. 开店流程&amp;nbsp; 2. 配店流程&amp;nbsp; 3. 实时问答流程&amp;nbsp; 4. 日常运营流程&amp;nbsp; 5. 商家后台配置流程 6. Cases排查流程&amp;nbsp; 7. 模型与场景内容制作流程" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;dashed=1;fontSize=10;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="10" width="1600" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
