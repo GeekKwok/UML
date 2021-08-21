@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T09:07:25.581Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="k7G0VTPPrKiGfaktMjtJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T09:10:41.066Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vIAJd0dU1LKFNyKOsbPq" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1592,7 +1592,7 @@
         <mxCell id="fyLro8OaDeAJscRNNPWM-147" value="Load Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1189.95" y="1490" width="130.04" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fyLro8OaDeAJscRNNPWM-148" value="NOC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="fyLro8OaDeAJscRNNPWM-148" value="Service Reliability Assurance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1189.95" y="1540" width="130.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-149" value="SLO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
