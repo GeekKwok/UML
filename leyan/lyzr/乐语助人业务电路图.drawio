@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T07:36:36.248Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vYmy4gyClSCOlVjzx5wh" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T07:37:31.199Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1LWCLHmr1kmiU6lFU05K" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="984" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1414,7 +1414,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="fyLro8OaDeAJscRNNPWM-55" target="fyLro8OaDeAJscRNNPWM-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1130" />
+              <mxPoint x="390" y="1130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fyLro8OaDeAJscRNNPWM-55" value="Prism&lt;br&gt;数据聚合服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="310" y="1080" width="100" height="39" as="geometry" />
