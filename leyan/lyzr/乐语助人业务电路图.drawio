@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T09:17:07.439Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="td-l7InQNYOsukXpnV1b" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T09:17:36.511Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KuRIiJS-FT2ttf0S-ESE" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
     <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,7 +419,7 @@
         <mxCell id="EMmTePQHCilCIxiALx4h-133" value="感叹号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="610" y="693" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EMmTePQHCilCIxiALx4h-134" value="重复回复限制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
+        <mxCell id="EMmTePQHCilCIxiALx4h-134" value="回复控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="440" y="748" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMmTePQHCilCIxiALx4h-135" value="灯塔助手" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" parent="1" vertex="1">
