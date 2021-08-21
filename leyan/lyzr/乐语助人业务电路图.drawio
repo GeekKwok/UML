@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T12:43:29.434Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="YdYjG-rt59qnewrRkyeL" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T12:48:38.520Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="I0J8Cof0auxbQppCf58V" version="14.8.6" type="github">
   <diagram id="zcCJHnGb3e6NU65mhvEJ" name="Page-1">
-    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1323,7 +1323,7 @@
         <mxCell id="fyLro8OaDeAJscRNNPWM-60" value="Kafka Message Queue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;opacity=50;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="180" y="900" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fyLro8OaDeAJscRNNPWM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-30" target="EMmTePQHCilCIxiALx4h-97">
+        <mxCell id="fyLro8OaDeAJscRNNPWM-61" value="获取用户授权" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;" edge="1" parent="1" source="EMmTePQHCilCIxiALx4h-30" target="EMmTePQHCilCIxiALx4h-97">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="420" />
